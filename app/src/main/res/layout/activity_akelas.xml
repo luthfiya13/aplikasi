@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".AkelasActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="YOUR CLASS"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:layout_margin="10dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="90dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:id="@+id/containerLayout"> <!-- ID untuk container LinearLayout -->
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <!-- CardView akan ditambahkan secara dinamis di sini -->
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btnTambahKelas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="16dp"
+        android:backgroundTint="@color/lavender"
+        android:src="@drawable/ic_baseline_add_24"
+        app:tint="@color/white"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

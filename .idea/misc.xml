@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/drawable/custom_edittext.xml" value="0.175" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/drawable/item_kelas_cardview.xml" value="0.175" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/drawable/lavender_border.xml" value="0.1" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/drawable/white_background.xml" value="0.1" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_abab.xml" value="0.19583333333333333" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_adetailbab.xml" value="0.19583333333333333" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_adetailkelas.xml" value="0.2" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_adetailmapel.xml" value="0.25" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_admin.xml" value="0.25" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_admin_tambah_bab.xml" value="0.19583333333333333" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_admin_tambah_kelas.xml" value="0.2" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_admin_tambah_mapel.xml" value="0.2" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_adminkelas.xml" value="0.19895833333333332" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_akelas.xml" value="0.2" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_amapel.xml" value="0.2" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_kelas.xml" value="0.19895833333333332" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_sign_up.xml" value="0.2" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/activity_user.xml" value="0.1859375" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/cardviewkelas.xml" value="0.2" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/item_bab_cardview.xml" value="0.19583333333333333" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/item_kelas_cardview.xml" value="0.2" />
+        <entry key="..\:/D/Sekolah/Elearning/app/src/main/res/layout/item_mapel_cardview.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
